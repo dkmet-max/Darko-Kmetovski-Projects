@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 1. Brief Summary  
+##  1. Brief Summary  
 Results-driven **IT & Cybersecurity Professional** with expertise in **AWS Cloud Infrastructure**, **System Administration**, and **Security Operations**.  
 Holds a **Bachelor of Applied Science in IT & Cybersecurity (2025)** from Tacoma Community College.  
 **CompTIA Security+ certified** and **AWS Cloud Practitioner (in progress)**.  
