@@ -1,8 +1,8 @@
 
-# Hello Friends, I am Darko Kmetovski  💻
-📍 Kansas City, MO | 📧 dkmetovski93@gmail.com | 📱 (253) 317-8383  
-🔗 [LinkedIn](https://linkedin.com/in/darko-kmetovski) | [GitHub](https://github.com/darko-kmetovski)  
-🎯 Open to Remote Roles in **AWS Cloud | IT Support | System Administration | Cybersecurity**
+# Hello Friends, I am Darko Kmetovski 
+ Kansas City, MO | dkmetovski93@gmail.com | (253) 317-8383  
+ [LinkedIn](https://linkedin.com/in/darko-kmetovski) | [GitHub](https://github.com/darko-kmetovski)  
+ Open to Remote Roles in **AWS Cloud | IT Support | System Administration | Cybersecurity**
 
 ---
 
@@ -15,12 +15,12 @@ Adaptable, analytical, and passionate about cloud security and continuous learni
 
 ---
 
-## 🎯 2. Objectives  
+##  2. Objectives  
 To contribute to a mission-driven organization as an **AWS Cloud Support Engineer**, **System Administrator**, or **SOC Analyst**, applying my knowledge of **AWS**, **networking**, and **cyber defense** to ensure security, uptime, and performance across modern IT infrastructures.
 
 ---
 
-## ⚙️ 3. Skills  
+##  3. Skills  
 
 | Category | Skills |
 |-----------|--------|
@@ -34,7 +34,7 @@ To contribute to a mission-driven organization as an **AWS Cloud Support Enginee
 
 ---
 
-## 🧰 4. Tools  
+##  4. Tools  
 **Cloud:** AWS Management Console, EC2, S3, IAM, CloudFormation, CloudWatch  
 **Security:** Splunk, Nessus, OpenVAS, Wireshark, OSSEC, AWS GuardDuty  
 **Systems:** Windows Server, Linux (Ubuntu/Kali), Active Directory, RDP, SSH  
@@ -43,7 +43,7 @@ To contribute to a mission-driven organization as an **AWS Cloud Support Enginee
 
 ---
 
-## 🌐 5. Network  
+##  5. Network  
 - Designed and managed **AWS VPC networks** with secure subnets, NAT gateways, and routing policies.  
 - Implemented **VPN tunnels** for remote access and secure communication.  
 - Deployed **firewall rules**, **security groups**, and **NACLs** to enforce least privilege access.  
@@ -52,7 +52,7 @@ To contribute to a mission-driven organization as an **AWS Cloud Support Enginee
 
 ---
 
-## 🖥️ 6. Endpoint  
+##  6. Endpoint  
 - Managed Windows and Linux endpoints through **AWS Systems Manager** and RMM tools.  
 - Automated patch management and vulnerability scanning with AWS Inspector.  
 - Hardened endpoints with antivirus, disk encryption, and secure baseline policies.  
@@ -61,7 +61,7 @@ To contribute to a mission-driven organization as an **AWS Cloud Support Enginee
 
 ---
 
-## 🔎 7. SIEM  
+##  7. SIEM  
 - Configured **Splunk Enterprise** to collect logs from AWS, Windows, and Linux systems.  
 - Integrated **CloudTrail** and **CloudWatch** into Splunk dashboards for threat detection.  
 - Built custom alerts for privilege escalations, brute-force attempts, and suspicious API usage.  
@@ -70,7 +70,7 @@ To contribute to a mission-driven organization as an **AWS Cloud Support Enginee
 
 ---
 
-## 🧩 8. Projects  
+##  8. Projects  
 
 ### ☁️ **AWS Cloud Infrastructure Setup**  
 **Repo:** [AWS-Cloud-Lab](https://github.com/darko-kmetovski/AWS-Cloud-Lab) *(example placeholder)*  
@@ -78,13 +78,13 @@ To contribute to a mission-driven organization as an **AWS Cloud Support Enginee
 - Configured **VPC**, subnets, and routing tables for public/private segmentation.  
 - Implemented **AWS CloudWatch dashboards** for performance and security metrics.  
 
-### 🔐 **Splunk Security Operations Center (SOC) Dashboard**  
+###  **Splunk Security Operations Center (SOC) Dashboard**  
 **Repo:** [Splunk-SOC-Dashboard](https://github.com/darko-kmetovski/Splunk-SOC-Dashboard) *(example placeholder)*  
 - Integrated Splunk with Windows event logs and AWS CloudTrail for real-time visibility.  
 - Created custom dashboards tracking login failures, system alerts, and suspicious activity.  
 - Used correlation searches to simulate a live incident response scenario.  
 
-### 🧠 **Network Monitoring & Incident Response Lab**  
+###  **Network Monitoring & Incident Response Lab**  
 **Repo:** [Network-IR-Lab](https://github.com/darko-kmetovski/Network-IR-Lab) *(example placeholder)*  
 - Configured Wireshark and Splunk for packet capture and alert correlation.  
 - Simulated brute-force login attempts and captured evidence for SOC documentation.  
@@ -92,20 +92,20 @@ To contribute to a mission-driven organization as an **AWS Cloud Support Enginee
 
 ---
 
-## 🏅 9. Certifications  
+##  9. Certifications  
 
 | Certification | Status | Issuer | Year |
 |----------------|---------|---------|------|
-| ☁️ **AWS Certified Cloud Practitioner** | In Progress | Amazon Web Services | 2025 |
-| 🛡️ **CompTIA Security+** | Completed | CompTIA | 2021 |
-| 🕵️ **CompTIA CySA+** | In Progress | CompTIA | 2025 |
-| 💻 **Cybersecurity Job Simulation** | Completed | Forage | 2024 |
-| 🧠 **Help Desk Support Certificate** | Completed | Tacoma Community College | 2024 |
-| 🔍 **Splunk Cybersecurity Defense Analyst** | Completed | Splunk Education | 2025 |
+|  **AWS Certified Cloud Practitioner** | In Progress | Amazon Web Services | 2025 |
+|  **CompTIA Security+** | Completed | CompTIA | 2021 |
+|  **CompTIA CySA+** | In Progress | CompTIA | 2025 |
+|  **Cybersecurity Job Simulation** | Completed | Forage | 2024 |
+|  **Help Desk Support Certificate** | Completed | Tacoma Community College | 2024 |
+|  **Splunk Cybersecurity Defense Analyst** | Completed | Splunk Education | 2025 |
 
 ---
 
-## 🧠 Tech Stack Badges  
+##  Tech Stack Badges  
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Admin-blue?logo=linux&logoColor=white)
